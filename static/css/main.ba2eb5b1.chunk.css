@@ -1,2 +1,0 @@
-.App{display:grid;justify-items:center}.header{font-size:50px}.todo{display:flex;justify-content:space-between;padding:10px;border:2px solid grey;box-shadow:-2px 2px 2px grey;border-radius:10px;font-size:20px;width:50%;margin:10px auto;transform:translate(10px)}.todo:hover{cursor:pointer;transform:translateY(2px)}.todo>:first-child{font-size:22px;font-weight:700;color:#0c1ada}.completed{background-color:#16de48}.not_complited{background-color:#de7a48}
-/*# sourceMappingURL=main.ba2eb5b1.chunk.css.map */
